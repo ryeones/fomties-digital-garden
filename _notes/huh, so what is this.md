@@ -108,6 +108,8 @@ dm me if u have any thoughts.
 
 [[videos]]
 
+[[quotes]]
+
 **-how to get around this site-**
 
 not sure what brought you here, but i've set up a few ways to explore, so you'll find something interesting no matter your reason:
