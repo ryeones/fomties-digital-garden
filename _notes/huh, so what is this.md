@@ -118,7 +118,7 @@ not sure what brought you here, but i've set up a few ways to explore, so you'll
 
 3. [[tags|what i write about]] - check out my (topics i write about for top level) maps of content
 
-4. [[home]] - let the interconnected notes guide you through my digital garden
+4. graph view - let the interconnected notes below guide you through my digital garden
 
 if you just want the latest scoop on what's going on, check out what i'm up to [[now]], which serves as a [[now page]].
 
