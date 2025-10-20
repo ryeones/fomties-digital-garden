@@ -88,3 +88,37 @@ i just like seeing where things can go
 thank u for being here
 
 dm me if u have any thoughts.
+
+
+**-quick links-**
+
+[[creations]]
+
+[portfolio](https://www.ryeones.com/work)
+
+[[notes]]
+
+[[library]]
+
+[[videos]]
+
+[[press]]
+
+[[writings]]
+
+[[videos]]
+
+**-how to get around this site-**
+
+not sure what brought you here, but i've set up a few ways to explore, so you'll find something interesting no matter your reason:
+
+1. [[changelog]] - to quickly get an overview overview of the most recent changes to the website
+
+2. quick links - curated pages that hopefully add value to your visit 
+
+3. [[tags|what i write about]] - check out my (topics i write about for top level) maps of content
+
+4. [[home]] - let the interconnected notes guide you through my digital garden
+
+if you just want the latest scoop on what's going on, check out what i'm up to [[now]], which serves as a [[now page]].
+

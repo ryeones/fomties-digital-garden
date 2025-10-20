@@ -7,13 +7,18 @@ permalink: /now
 ## monthly updates
 
 # 2025 
+
 ### 10/25
 - second month (out of the first 6 months on probation) into the new job so far, have been trying to get into the groove of things, but honestly it hasn't been easy so far
 - made friends and gotten closer to two other new hires, winna and [krissten](https://www.instagram.com/krisstensolotravels/) who also happens to create content online!
 - played my first ever game of pickle ball and i think i do have a knack for it!
+- finally created a barebones site for [fomties](https://www.fomties.com) as a new project i want to work on
+- updated my entire site and shifted to my [root domain](https://www.ryeones.com) , my work and portfolio can still be seen either [[work|here]] or [directly](https://work.ryeones.com)
 ### 9/25
 - started my first day at my first ever 'real job' at [seeksophie](https://www.seeksophie.com/about) - have been freelancing and running small businesses instead of working part time since young
 - playoffs for the singapore floorball league has begun, and we managed to progressed to the semis next month
+- ordered and received 16 boxes of smiskis from japan
+- got the handle [smiskurt](https://www.instagram.com/smiskurt) as a potential side project about smiski related collectibles, a small business or just a couple account for my partner and i
 ### 8/25
 - concluded our league matches for singapore floorball league div 1 and are transitioning to playoffs once the break is over
 
@@ -22,6 +27,7 @@ permalink: /now
 - went through a couple rounds of interviews in my latest job applications
 - have also started wrapping up my freelance work because it coincided with my contract with my potential 9-5
 - got a confirmed offer in the second week of july, and will be embarking on my 9-5 in august
+- opened my first ever box of smiski! got lucky with a dual in the cheer leading series
 ### 6/25
 - started the month off with a week in vietnam with my girlfriend (da nang, hcm, and hoi an - da nang is defo the best place and somewhere to visit again!)
 - started posting more consistently on my personal brand

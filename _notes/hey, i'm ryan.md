@@ -1,51 +1,28 @@
 ---
 title: hey, i'm ryan
 ---
+i’m currently the content strategist and storyteller at [seeksophie](https://www.seeksophie.com/about) - my first full-time role after graduating with a bachelor’s degree in architecture from the national university of singapore.
 
-telling stories, sparks, strategies, sequences, stories, systems, spaces.
+i’ve lived in singapore all my life. for the most part, i followed the traditional path - decent grades, safe choices, predictable steps.
 
-currently, i'm exploring full-time roles in content marketing & strategy, helping brands tell honest stories and connect with the people who matter.
+but when i chose to study architecture, it was the first leap of faith i ever took. something more creative. less maths. more risk.
 
-outside of work, i'm building [soffcopy™](https://www.soffcopy.com) and [fomties™](https://www.fomties.com). the goal was always to somewhat get a 9-5, to fund my 5-9, to eventually escape the 9-5.
+but after my first lesson, i knew i’d made a mistake.
 
-soffcopy shares the stories of inspiring founders and creatives, offering alternate paths beyond the traditional route. fomties is a personal archive documenting the messy, evolving process of figuring out my twenties.
+instead of switching courses, i chose to push through - and document the entire journey.
 
-both are projects i wish my younger self had found sooner and the stories i'd want him to hear.
+that decision [[my story|ended up changing everything]]
 
-previously, i studied architecture at the national university of singapore and played floorball at a competitive level all my life.
+since then, i’ve run a custom shoe business, touched seven figures flipping jpegs (yes, nfts), and played floorball at a competitive level all my life.
 
-**-quick links-**
+i think a lot. i over-plan. but more than anything, i’ve learned to take action - and show up consistently, even when it’s messy.
 
-[[about]]
+i don’t like to bucket myself into one category. i design. i vibe-code. i tell stories. i create experiences. but at the core, everything i do is about documenting journeys, sharing stories, and helping people feel a little less alone.
 
-[[creations]]
+i don’t have it all figured out, but i’m building in public, one honest post at a time.
 
-[portfolio](https://www.ryeones.com/work)
+the quickest way to reach me is via [instagram](https://www.instagram.com/ryeones). if you prefer a different medium, you can [email me](mailto:ryan@ryeones.com). i check it every few days.
 
-[[notes]]
 
-[[library]]
-
-[[videos]]
-
-[[press]]
-
-[[fomties™]]
-
-**-how to get around this site-**
-
-not sure what brought you here, but i've set up a few ways to explore, so you'll find something interesting no matter your reason:
-
-1. changelog - to quickly get an overview overview of the most recent changes to the website
-
-2. quick links - curated pages that hopefully add value to your visit 
-
-3. what i write about - check out my (topics i write about for top level) maps of content
-
-4. fomties - let the interconnected notes guide you through my digital garden
-
-if you just want the latest scoop on what's going on, check out what i'm up to now, which serves as a now page.
-
-feel free to email me at ryan@ryeones.com. i check it once every few days. otherwise, feel free to connect with me on my socials (@ryeones) or check out my portfolio.
 
 
