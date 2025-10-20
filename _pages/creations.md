@@ -9,7 +9,7 @@ _websites_
 
 [ryeones](https://www.ryeones.com/work)
 
-[fomties](https://notes.ryeones.com)
+[fomties](https://fomties.com)
 
 _projects_
 
