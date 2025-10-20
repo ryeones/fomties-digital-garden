@@ -21,4 +21,14 @@ permalink: /press
 
 [korea vs singapore 3rd men’s aofc 2023 3rd/4th highlights](https://youtu.be/O5eCYghJgSA?si=ND3IpS0Qp4WBMRtv)
 
+[singapore vs malaysia aofc 2023 highlights](https://www.youtube.com/watch?v=lI00aWGirD8)
+
 [nsg 2016 with national school floorball championships 2016](https://youtu.be/UxcvlOprjh4?si=ovSA0Pwxo7Q04dza)
+
+[school sports: victoria edge out east view sec with last-gasp goal in b div boys' floorball final](https://www.straitstimes.com/sport/schools/school-sports-victoria-edge-out-east-view-sec-with-last-gasp-goal-in-b-div-boys)
+
+[vjc shocks defending champs ri in a div boys floorball finals...](https://www.straitstimes.com/sport/schools/school-sports-vjc-shock-defending-champs-ri-in-a-div-boys-floorball-finals-river)
+
+[bitter-sweet end for springfield secondary](https://www.todayonline.com/sports/bitter-sweet-end-springfield-secondary)
+
+[sssc best sportsboy awardees 2016](https://www.moe.gov.sg/-/media/files/news/press/2016/annex-b---46th-colours-award-presentation-and-nsg-closing-ceremony.pdf)

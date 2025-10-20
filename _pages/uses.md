@@ -1,8 +1,7 @@
 ---
 layout: page
-title: home
-id: ryan tham
-permalink: /
+title: uses
+permalink: /uses
 ---
 
 **ryan tham aka ryeones.**

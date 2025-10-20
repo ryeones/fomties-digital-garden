@@ -6,11 +6,30 @@ permalink: /now
 *welcome to my [[now page]], which is basically a place to get to know what i'm up to in the quickest way possible - first started by derek sivers, and later adopted by tobias van schneider and many others. if you happen to have a website, [you should have one too](https://nownownow.com/p/0KL9)*
 ## monthly updates
 
+# 2025 
+### 10/25
+- second month (out of the first 6 months on probation) into the new job so far, have been trying to get into the groove of things, but honestly it hasn't been easy so far
+- made friends and gotten closer to two other new hires, winna and [krissten](https://www.instagram.com/krisstensolotravels/) who also happens to create content online!
+- played my first ever game of pickle ball and i think i do have a knack for it!
+### 9/25
+- started my first day at my first ever 'real job' at [seeksophie](https://www.seeksophie.com/about) - have been freelancing and running small businesses instead of working part time since young
+- playoffs for the singapore floorball league has begun, and we managed to progressed to the semis next month
+### 8/25
+- concluded our league matches for singapore floorball league div 1 and are transitioning to playoffs once the break is over
+
 ### 7/25
 - been awhile since i’ve updated this page
+- went through a couple rounds of interviews in my latest job applications
+- have also started wrapping up my freelance work because it coincided with my contract with my potential 9-5
+- got a confirmed offer in the second week of july, and will be embarking on my 9-5 in august
 ### 6/25
+- started the month off with a week in vietnam with my girlfriend (da nang, hcm, and hoi an - da nang is defo the best place and somewhere to visit again!)
+- started posting more consistently on my personal brand
+- started more freelance work helping solo preneurs grow their personal brands online
 
 ### 5/25
+- attend my final month of classes in uni and in fact my 16 years of education in singapore
+- previously reached out to a fellow creator gabe chia, and started interning part time at his short form content agency - this was my final month working here 
 
 ### 4/25
 
