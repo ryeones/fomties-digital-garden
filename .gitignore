@@ -13,3 +13,11 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+# ignore junk
+.DS_Store
+assets/.DS_Store
+
+# ignore videos
+assets/videos/
+*.mp4
