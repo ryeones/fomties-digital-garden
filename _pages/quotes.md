@@ -6,7 +6,7 @@ permalink: /quotes
 a collection of interesting quotes i've come across that i want to keep close to heart.
 
 > you can't connect the dots looking forward; you can only connect them looking backward. so you have to trust that the dots will somehow connect in your future. - steve jobs
-
+---
 > it's simple. be a good person. and good things happen. - gary vee
 
 > for we live by faith, not by sight - 2cor 5:7
