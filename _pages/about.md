@@ -37,11 +37,9 @@ If you would like me to appear on your publication or event, reach out to me.
 
 ### prologue
 
- my jekyll template is not public, but you can get similar results from this template by maxime vaillancourt.
-
 this site is written and edited in obsidian. i follow the principle of [[systems over templates]] - prioritising structure first before aesthetics. my plain text markdown files are compiled into web pages using [jekyll](https://jekyllrb.com/) and hosted with [netlify](https://www.netlify.com/). 
 
-the colour palette is euscape, which i created for this my personal use. the theme you see here however is based on a combination of public templates/guides by other creators like [maxime vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template), [mike tannenbaum](https://refinedmind.co/obsidian-jekyll-workflow) and [kepano](https://stephango.com/). i vibe-coded everything together with zero formal coding background. i just followed what felt right, borrowed from open-source resources, and tweaked things until they looked like me.
+the colour palette is from my previous project [[euscape]], which i created for my personal use as part of [[aesthetic is a creative constraint]]. the theme you see here however is based on a combination of public templates/guides by other creators like [maxime vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template), [mike tannenbaum](https://refinedmind.co/obsidian-jekyll-workflow) and [kepano](https://stephango.com/). i vibe-coded everything together with zero formal coding background. i just followed what felt right, borrowed from open-source resources, and tweaked things until they looked like me.
 
 i believe in [[huh, so what is this|sharing ideas and documenting what works (or doesn't)]], which is also why i started this [[digital garden]] in the first place. if you’re curious about how this site was built, here’s a write up on it.
 
