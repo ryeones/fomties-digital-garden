@@ -13,6 +13,8 @@ a collection of interesting quotes i've come across that i want to keep close to
 
 "if today were the last day of your life. would you want to do what you are about to do today?" - steve jobs
 
+"create like a child, edit like a scientist" - tyler, the creator
+
 "if you love what you do, you'll never work work a day in your life" - tim cook
 
 "your first workout will be bad. your first podcast will be bad. your first speech will be bad. your first video will be bad. your first anything will be bad. but you cant make your 100th without making your first. so put your ego aside, and start."

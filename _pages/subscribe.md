@@ -11,7 +11,7 @@ i send occasional email updates with new ideas, essays, and projects as i figure
 ## other ways to follow me
 
 - email me directly: <a class="plain" href="mailto:ryan@ryeones.com">ryan@ryeones.com</a>  
-- rss: [notes.ryeones.com/feed](https://notes.ryeones.com/feed.xml)
+- rss: [ryeones.com/feed](https://ryeones.com/feed.xml)
 - x (twitter): [@itsryeones](https://www.x.com/itsryeones)
 - instagram: [@ryeones](https://www.instagram.com/ryeones)
 - tiktok: [@ryeones](https://www.tiktok.com/ryeones)
