@@ -1,8 +1,9 @@
 ---
-title: what i've learnt from running a small business 5 years ago
+title: what i've learnt from trying to grow a theme page from scratch
 tags:
   - reflections
   - entrepreneurship
+  - failures
 categories:
   - "[[posts]]"
 status:
@@ -19,7 +20,7 @@ as an architecture student who chose not to pursue my master’s, i found myself
 our assignment was to build a digital product brand from scratch.
 and for me, that brand was euscape.
 
-[[euscape|the idea had been living in my head for years]] - as someone who grew up in a culture where vulnerability wasn’t always encouraged (especially as an asian guy), i often felt like there wasn’t space to process or reflect, let alone speak openly about it.
+[[euscape|the idea]] had been living in my head for years - as someone who grew up in a culture where vulnerability wasn’t always encouraged (especially as an asian guy), i often felt like there wasn’t space to process or reflect, let alone speak openly about it.
 
 that’s what euscape was meant to be - a quiet corner (on the internet) for introspection, motivation, and emotional clarity. years later, that same thread would lead me to start [[fomties™]].
 

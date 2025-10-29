@@ -19,14 +19,5 @@ create a quiet, faceless space online for emotional clarity, introspection, and 
 
 especially as someone who grew up in a culture where vulnerability wasn’t the default, this was meant to be the kind of space i wished existed.
 
-my intention with euscape was to:
-	•	build community through faceless, intentional content
-	•	curate thought leadership without positioning myself as the face(less)
-	•	design an ecosystem around reflection, motivation, and calm
-	•	eventually extend into a newsletter, digital products, and email flows
-
-beyond just an aesthetic page, euscape was a branding exercise in emotional resonance and a playground for me to explore storytelling, content strategy, and what it means to create space online.
-
-euscape is no longer actively maintained, but if you want to look at the archival of videos i've created, you can check 
-
+euscape is no longer actively maintained, but here's an [archive of the page](https://www.instagram.com/euscape) and [[2025-10-29-what i've learnt from trying to grow a theme page from scratch|the journey from this "failed" project]]
 
