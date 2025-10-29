@@ -1,5 +1,5 @@
 ---
-title: tension - a short film
+title: tension - a short film™
 categories:
   - notes
 tags:
@@ -9,9 +9,7 @@ author:
 created: 2025-10-29
 topics: []
 status:
-feature: assets/thumbnails/youtube/yyXrPKzx_Bk.webp
 permalink: /tension-a-short-film
-layout: notes
 ---
 this was a short film project that i had to film for an individual assignment in my final year and semester studying at the national university of singapore.
 
@@ -23,4 +21,13 @@ the filming took place on a weekend trip to [[johor bahru]] at a unit in the air
 
 you can either watch it [here](https://www.youtube.com/watch?v=yyXrPKzx_Bk) on youtube or on my site itself
 
-![tension - a short film](https://www.youtube.com/watch?v=yyXrPKzx_Bk)
+<iframe
+  width="100%"
+  height="100%"
+  style="aspect-ratio: 16/9;"
+  src="https://www.youtube.com/embed/yyXrPKzx_Bk"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>

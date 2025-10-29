@@ -9,14 +9,12 @@ _websites_
 
 * [ryeones](https://work.ryeones.com)
 * [fomties](https://fomties.com)
+* [soffcopy](https://www.soffcopy.com)
 
 _projects_
 
-- [soffcopy™](https://www.soffcopy.com)
-- [fomties™](https://www.fomties.com)
-- [euscape](https://www.instagram.com/euscape)
-- [[soffcopy]]
-- [[fomties]]
+- [[soffcopy™]]
+- [[fomties™]]
 - [[euscape™]]
 - [[fihtus™]]
 
