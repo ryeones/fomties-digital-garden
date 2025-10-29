@@ -19,7 +19,7 @@ both are projects i wish my younger self had found sooner and the stories i'd wa
 
 previously, i studied architecture at the national university of singapore and [[press|played floorball at a competitive level all my life.]]
 
-feel free to email me at <a href="mailto:ryan@ryeones.com?subject=hey%20ryan&body=i%20found%20your%20site%20awesome!">
+i have an [[open invite]] - feel free to email me at <a href="mailto:ryan@ryeones.com?subject=hey%20ryan&body=i%20found%20your%20site%20awesome!">
   ryan@ryeones.com
 </a>. i check it once every few days. otherwise, feel free to connect with me on my socials (@ryeones), check out my [[work|portfolio]], or [[welcome|my thoughts in public.]]
 
