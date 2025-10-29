@@ -9,12 +9,24 @@ created: 2025-10-23
 topics: []
 status:
 ---
-one of my many mini ventures that i've conceptualised for many years but only embarked for less than 6 months in total - essentially a failure but lots of lessons were learnt from this.
 
-it first came about coincidentally as part of a branding module i took in the first semester of my final year in university, and i was tasked to conceptualise a full branding project - for a new digital product (app)
+euscape started as a branding concept - first explored in a university module, but rooted in years of personal reflection. 
 
-although this was my first ever proper branding project (long story short i was an architecture student who decided not to pursue my masters which resulted in me choosing more branding/marketing/content related modules), it was not a completely new idea as i always had an inkling for formulating brands and ideas in my head and one of them was [[euscape]].
+what began as a semester-long branding project slowly turned into a mini content experiment - a theme page that curated thought-led content around self-awareness, perspective shifts, and the inner life.
 
-almost all my ideas i have stem from personal circumstances or problems i need help solving and euscape came about because i felt growing up (especially as an asian guy), there was a lack of environment which promoted reflecting, sharing of raw feelings and being vulnerable essentially - which was why a few years later, [[fomties™]] was also conceptualised.
+the idea was simple:
+create a quiet, faceless space online for emotional clarity, introspection, and everyday reflection.
 
-what started out as a branding project for a school assignment eventually turned into a mini project where i would attempt to grow and build a theme page from scratch. i had major plans for euscape - grow a following on instagram, newsletter a
+especially as someone who grew up in a culture where vulnerability wasn’t the default, this was meant to be the kind of space i wished existed.
+
+my intention with euscape was to:
+	•	build community through faceless, intentional content
+	•	curate thought leadership without positioning myself as the face(less)
+	•	design an ecosystem around reflection, motivation, and calm
+	•	eventually extend into a newsletter, digital products, and email flows
+
+beyond just an aesthetic page, euscape was a branding exercise in emotional resonance and a playground for me to explore storytelling, content strategy, and what it means to create space online.
+
+euscape is no longer actively maintained, but if you want to look at the archival of videos i've created, you can check 
+
+
