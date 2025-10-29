@@ -35,7 +35,6 @@ _art, design & architecture_
 _video_
 
 - [portfolio](https://www.work.ryeones.com)
-- [tension - a short film](youtube.com/watch?v=yyXrPKzx_Bk&feature=youtu.be)
 - [[tension - a short film™]]
 
 *templates*

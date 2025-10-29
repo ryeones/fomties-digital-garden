@@ -13,7 +13,6 @@ i'm ryan. you may also know me as ryeones, currently the content strategist and 
 * [[videos]]
 * [[press]]
 * [[writings]]
-* [[videos]]
 * [[quotes]]
 
 ### elsewhere

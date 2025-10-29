@@ -66,9 +66,10 @@ i have the unfortunate combination of a) being bad at email, and b) getting a re
 
 **important!** if i don’t respond within a week (i try to check my emails everyday during my [[shut down routine]]), feel free to send a follow-up email. i probably just got busy on the day (or even week) your email came through. if you follow up and ask me to reply, i’ll genuinely do my best to write you back.
 
-*don’t know how to start?*
+***don’t know how to start?***
+
 if you feel like emailing me but don’t know how to start, here’s your opening line…
 
 <mark style="background: #b0cef2;">hey there,
 i'm sending you this email because of the open invite page on your website.
-i need help with/i want your thoughts on/i'd like to share...</mark>
+i need help with/ i want your thoughts on/ i'll like to share...</mark>
