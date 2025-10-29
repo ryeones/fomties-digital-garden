@@ -8,7 +8,9 @@ hey there!
 
 i have an open invite (also commonly termed as [[standing invitation]]) for you to email me about anything that's on your mind.
 
-i have a couple of email addresses for personal and professional use, but the one that i will check the most often is ryan@ryeones.com.
+i have a couple of email addresses for personal and professional use, but the one that i will check the most often is <a href="mailto:ryan@ryeones.com?subject=hey%20ryan&body=i%20found%20your%20site%20awesome!">
+  ryan@ryeones.com
+</a>
 
 ***why am i doing this? (even though no one will probably ask)***
 
@@ -25,7 +27,7 @@ i have a few areas of interests where i may be of use for you, generally at the 
 - your business, marketing or content strategy
 - building indie businesses and community
 - creative design feedback (i'm more of a "[[think out of the box]]" person than a professional in a specific field)
-- content strategy to gain your [[1000 true fans]]
+- content strategy to gain your first [[1000 true fans]]
 
 *other stuff i like talking about*
 
@@ -64,9 +66,9 @@ i have the unfortunate combination of a) being bad at email, and b) getting a re
 
 **important!** if i don’t respond within a week (i try to check my emails everyday during my [[shut down routine]]), feel free to send a follow-up email. i probably just got busy on the day (or even week) your email came through. if you follow up and ask me to reply, i’ll genuinely do my best to write you back.
 
-***don’t know how to start?***
+*don’t know how to start?*
 if you feel like emailing me but don’t know how to start, here’s your opening line…
 
-hey there,
+<mark style="background: #b0cef2;">hey there,
 i'm sending you this email because of the open invite page on your website.
-i need help with/i want your thoughts on/i'd like to share...
+i need help with/i want your thoughts on/i'd like to share...</mark>
