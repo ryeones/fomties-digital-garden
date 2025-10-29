@@ -2,7 +2,7 @@
 # Site identity
 # =========================
 title:               "ryeones™"
-description:         "musings as i figure out my twenties by ryan tham."
+description:         "documenting my twenties, one story at a time."
 url:                 "https://www.ryeones.com"   # <- change if different
 baseurl:             ""                            # subpath, e.g. "/blog" (empty if at root)
 

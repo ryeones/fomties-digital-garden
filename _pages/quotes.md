@@ -9,6 +9,8 @@ a collection of interesting quotes i've come across that i want to keep close to
 
 "it's simple. be a good person. and good things happen." - gary vee
 
+"we often overestimate what we can do in a day, but underestimate what we can do in a year." - bill gates spinoff
+
 "for we live by faith, not by sight" - 2cor 5:7
 
 "if today were the last day of your life. would you want to do what you are about to do today?" - steve jobs

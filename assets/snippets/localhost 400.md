@@ -10,7 +10,7 @@ bundle exec jekyll serve --livereload --port 4000
 git add --all
   
 
-git commit -m 'Update content'
+git commit -m 'insert any comment regarding update'
   
 
 git push -u origin main

@@ -15,17 +15,28 @@ _projects_
 - [soffcopy™](https://www.soffcopy.com)
 - [fomties™](https://www.fomties.com)
 - [euscape](https://www.instagram.com/euscape)
-- [fihtus](https://www.instagram.com/fihtus)
+- [[soffcopy]]
+- [[fomties]]
+- [[euscape™]]
+- [[fihtus™]]
 
 
 _art, design & architecture_
  
-
+- y1s1 drawings
+- y1s2 stacked
+- y2s1 aggregation
+- y2s2 facade
+- y3s1 intergration
+- y3s2 yih
+- oatfit
+- album cover
 
 _video_
 
 - [portfolio](https://www.work.ryeones.com)
-
+- [tension - a short film](youtube.com/watch?v=yyXrPKzx_Bk&feature=youtu.be)
+- [[tension - a short film™]]
 
 *templates*
 
@@ -34,7 +45,8 @@ _video_
 
 
 _merch_
-
+- nemesis floorball club 
+- national university of singapore floorball varsity
 
 *app & ai bots*
 

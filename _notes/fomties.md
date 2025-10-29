@@ -1,5 +1,5 @@
 ---
-title: fomties™
+title: fomties
 ---
 *my initial apple note entry*
 

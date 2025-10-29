@@ -20,7 +20,7 @@ permalink: /changelog
 - blog post: experience “coding” a website as a non-coder
 - blog post: documentation for hosting your own website similar to this
 - blog post: first week at my new job
-- update projects/creations page with mini portfolio
+- update projects/[[creations]] page with mini portfolio
 
 `to change`
 - fix width/alignment issue where some pages cut off mid-way
@@ -118,7 +118,7 @@ permalink: /changelog
 
 `added`
 
-- notes: [[hey, i'm ryan]], [[huh, so what is this]], [[fomties™]], [[now page]]
+- notes: [[hey, i'm ryan]], [[huh, so what is this]], [[fomties]], [[now page]]
     
 - theme toggle switch in nav
     

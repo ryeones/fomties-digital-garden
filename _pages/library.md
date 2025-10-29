@@ -3,7 +3,24 @@ layout: page
 title: library
 permalink: /library
 ---
-a running list of books that have contributed to my growth and shaped my thinking (in no particular order).
+a running list of articles, books, blogs or newsletters that have contributed to my growth and shaped my thinking (in no particular order).
+
+#### blogs
+
+- [school is not enough](https://www.palladiummag.com/2023/06/06/school-is-not-enough)
+- [life is a picture but you live in a pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html)
+- [make something heavy](https://www.workingtheorys.com/p/make-something-heavy#footnote-2-158538641)
+- [career decisions](https://blog.eladgil.com/p/career-decisions) 
+- [looking for alice](https://www.henrikkarlsson.xyz/p/looking-for-alice) 
+- [hugging the x-axis](https://perell.com/essay/hugging-the-x-axis/)
+- [what problem should you be working on now](https://www.henrikkarlsson.xyz/p/problem-selection)
+- [how to be successful](https://blog.samaltman.com/how-to-be-successful) 
+- [omens of exceptional people](https://guzey.com/talent/) 
+- [cate hall blogs (all of them are exceptional)](https://usefulfictions.substack.com/) 
+- [how to spot high agency people](https://x.com/george__mack/status/1815461836760002962?s=46) 
+
+
+#### books
 
 **self development**
 

@@ -138,3 +138,7 @@ https://maximevaillancourt.cod[ail](https://maximevaillancourt.com/)m/
 [http://localhost:4000/](http://localhost:4000/)
 
 [https://dash.cloudflare.com/944b7120d01dffc2fd094895b8ea709f/ryeones.com](https://dash.cloudflare.com/944b7120d01dffc2fd094895b8ea709f/ryeones.com)
+
+cd Users/ryeones/Library/Mobile Documents/iCloud~md~obsidian/Documents/my-digital-garden-ic
+
+bundle exec jekyll serve
